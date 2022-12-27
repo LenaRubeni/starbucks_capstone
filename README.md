@@ -39,7 +39,7 @@ The profile dataset contains information about users of the starbucks reward app
 The transcript datasets contains event information (four different event types) for certain users. It also gives information about wether a certain offer has been completed or not. 
 
 
-## Project Notivation
+## Project Motivation
 
 The goal of this project is to get an understanding of users of the Starbucks reward mobile app in order to send effective offers to customers.
 Questions that are of interest in the scope of the project are:
