@@ -2,7 +2,7 @@
 
 This repository contains my work in the scope of the Udacity Nanodegree Programm *Data Scientist* for the starbucks capstone project.
 
-This project works with simulated data that mimics the beahvior of customers on the *Starbucks reward* app. The challenge of this project is to figure out which customer should receive which offer type. Results are also documented in this medium blog-post:
+This project works with simulated data that mimics the beahvior of customers on the *Starbucks reward* app. The challenge of this project is to figure out which customer should receive which offer type. Results are also documented in this medium blog-post: https://medium.com/@lenarubeni/make-people-buy-more-in-the-starbucks-app-e27ba06d825
 
 
 Table of Contents
