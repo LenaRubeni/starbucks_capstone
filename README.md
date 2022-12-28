@@ -50,6 +50,18 @@ Which offers have been effective in the past and what characterizes an effective
 
 How can we predict the effectivenes of an offer for a certain user?
 
+For answering the last question I am using a Random Forest Classifier with some evaluation metrics:
+
+- accuracy
+- precision
+- recall
+- f1-score
+
+Accuracy measures how well the predicted measure fits to the actual value. It measures the number of correct predictions made by a model in relation to the total number of predictions made. For our project here, this is a really good metric. Nonetheless, other evaluation metrics are also of interest. The precision measures the accuracy of positive labeled predictions. This is also of interest for this project since we want to have a precise model in order to save money and time. 
+
+The recall measures the true positives divided by all predictions. 
+The f1-score measures how many positive cases of all the model has found. This is also really helpful since we want as many people as possible interacting with the offer they received. In fact, the f1-score is something in between precision and recall.
+
 ## Results
 
 From the dataset I generated the following insights:
